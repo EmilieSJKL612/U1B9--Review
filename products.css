@@ -1,4 +1,7 @@
 /* 1. https://developer.mozilla.org/en-US/docs/Web/CSS/repeat  2. https://developer.mozilla.org/en-US/docs/Web/CSS/minmax  3. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Auto-placement_in_grid_layout  */
+/* Canvas req: products style in grid */
+/* how to display photos that changes every time I refresh the webpage? */  
+
 .products {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
