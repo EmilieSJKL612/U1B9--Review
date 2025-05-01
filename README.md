@@ -13,12 +13,12 @@ While you are free to tackle this however you'd like, here are some tips:
 https://fsa-qwirty.netlify.app/
 
 ## requirements stated on Canvas (but not in GH instruction)
- - [] Product cards are styled as a grid
- - [] Product cards exist and contain a name, image, description, and price
- - [] Header HTML contains links, a brand name, and a search bar
- - [] Navigation sidebar exists and contains links to product categories
- - [] The header is styled into two rows
- - [] The footer contains several groups of links
- - [] Website is responsive to mobile and desktop viewport widths
+ - [X] Product cards are styled as a grid
+ - [ ] Product cards exist and contain a name, image, description, and price
+ - [ ] Header HTML contains links, a brand name, and a search bar
+ - [ ] Navigation sidebar exists and contains links to product categories
+ - [ ] The header is styled into two rows
+ - [ ] The footer contains several groups of links
+ - [ ] Website is responsive to mobile and desktop viewport widths
 
 
