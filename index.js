@@ -32,3 +32,6 @@ function createProductCard(){
 const $products = document.querySelector(".products");
 const $cards = Array(15).fill(0).map(_ => createProductCard());
 $products.replaceChildren(...$cards);
+
+
+
