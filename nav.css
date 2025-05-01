@@ -1,5 +1,9 @@
 
 /* work on the nav bar before getting into detailed product card so that I have a better sense of layout */ 
+/* used Inspect to check the gap and padding for nav categories */
+/* applied previous WS's hover and cursor styling here as well (useful! will update in OB note for better reference) */
+
+
 nav.categories {
     display: flex;
     flex-direction: column;
