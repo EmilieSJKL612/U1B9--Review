@@ -16,9 +16,9 @@ https://fsa-qwirty.netlify.app/
  - [X] Product cards are styled as a grid
  - [ ] Product cards exist and contain a name, image, description, and price
  - [ ] Header HTML contains links, a brand name, and a search bar
- - [ ] Navigation sidebar exists and contains links to product categories
+ - [X] Navigation sidebar exists and contains links to product categories
  - [ ] The header is styled into two rows
- - [ ] The footer contains several groups of links
+ - [X] The footer contains several groups of links
  - [X] Website is responsive to mobile and desktop viewport widths
 
 
