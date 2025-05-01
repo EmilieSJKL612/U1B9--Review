@@ -14,7 +14,7 @@ https://fsa-qwirty.netlify.app/
 
 ## requirements stated on Canvas (but not in GH instruction)
  - [X] Product cards are styled as a grid
- - [ ] Product cards exist and contain a name, image, description, and price
+ - [X] Product cards exist and contain a name, image, description, and price
  - [ ] Header HTML contains links, a brand name, and a search bar
  - [X] Navigation sidebar exists and contains links to product categories
  - [ ] The header is styled into two rows
