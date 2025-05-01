@@ -19,6 +19,6 @@ https://fsa-qwirty.netlify.app/
  - [ ] Navigation sidebar exists and contains links to product categories
  - [ ] The header is styled into two rows
  - [ ] The footer contains several groups of links
- - [ ] Website is responsive to mobile and desktop viewport widths
+ - [X] Website is responsive to mobile and desktop viewport widths
 
 
